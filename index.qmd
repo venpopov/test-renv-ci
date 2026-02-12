@@ -4,4 +4,6 @@ title: "Testing quarto and renv CI"
 
 This is a Quarto website.
 
+Edited through github interface. Will the action render this to the website?
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
